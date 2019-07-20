@@ -1,8 +1,8 @@
 # MosaicSpecificObject
 
-ポストエフェクトでユニティちゃん全体にモザイク 
-![output](https://user-images.githubusercontent.com/44670044/60755747-28cde500-a02f-11e9-9632-f3b4e1e59f8c.gif) 
-コマンドバッファとステンシルバッファでユニティちゃんのスキンのみモザイク 
+ポストエフェクトでユニティちゃん全体にモザイク  
+![output](https://user-images.githubusercontent.com/44670044/60755747-28cde500-a02f-11e9-9632-f3b4e1e59f8c.gif)  
+コマンドバッファとステンシルバッファでユニティちゃんのスキンのみモザイク  
 ![mg62](https://user-images.githubusercontent.com/44670044/61576072-ebc62000-ab0f-11e9-9894-c10b49a88b87.gif)
 
 ## Version
